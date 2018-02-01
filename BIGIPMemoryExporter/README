@@ -1,0 +1,7 @@
+ASK: Being able to write a simple script to pull memory/system stats over time for a customer
+
+0. How do I get memory stats on BIG-IP? statsd?
++ https://support.f5.com/csp/article/K16419
++ tmsh show /sys memory
+
+1. Parse above into json via memory_file_parser.py

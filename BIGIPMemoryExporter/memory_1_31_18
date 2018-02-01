@@ -1,0 +1,618 @@
+
+Sys::System Memory Information
+-----------------------------------------------------------------
+Memory Used(%)     Current  Average  Max(since 01/31/18 17:30:24)
+-----------------------------------------------------------------
+TMM Memory Used          9        9                             9
+Other Memory Used       72       72                            73
+Swap Used               13       12                            13
+
+------------------------
+Sys::Host Memory (bytes)
+------------------------
+TMM: 0  
+  Total     2.4G
+  Used    231.4M
+  Free      2.2G
+Other: 0
+  Total     1.4G
+  Used      1.0G
+  Free    405.2M
+Total: 0
+  Total     3.8G
+  Used      1.2G
+  Free      2.6G
+Swap: 0 
+  Total   999.9M
+  Used    126.0M
+  Free    873.9M
+
+------------------------------------------------------------------------------
+Sys::SubSystem Memory          
+SubSystem                        Alloc (bytes)  Max Alloc (bytes)  Object Size
+------------------------------------------------------------------------------
+AAA_IVS_CTX                                  0                  0          448
+ADM Mitigation                               0                  0            1
+ADM Statistics                               0                  0            1
+APMD proxy                                   0                  0            1
+Application Family Name                   2.0M               2.0M            1
+Application filter                      408.0K             408.0K            1
+BIGTCP PKTSEG cache                          0                  0           48
+Content Analysis                             0                  0            1
+Content Classification                  136.0K             136.0K            1
+DHCP lease query transaction                 0                  0         2128
+DHCPv4 transaction                           0                  0          160
+DHCPv6 transaction                           0                  0          160
+DNS DOS profile                              0                  0            1
+DoS Layer 7                               1.0M               1.0M            1
+DoS Layer 7 ACY                              0                  0            1
+DoS Network Whitelist                   124.6K             124.6K            1
+ECM                                       3.1K               3.1K            1
+FPS                                     106.0K             106.0K            1
+FPS Configuration                       519.7K             519.7K            1
+Firewall BDoS                                0                  0            1
+Firewall FQDN                                0                  0            1
+Firewall NAT                             10.0K              10.0K            1
+IKE DEVBUF                                   0                  0            1
+IKE LIB                                   5.4K               5.4K            1
+IKE VBUF                                 28.0K              28.0K            1
+IKEV2                                     5.0M               5.0M            1
+IPFIX MDS                                    0                  0            1
+IPFIX Proxy                                  0                  0            1
+IPFIX iRules                                 0                  0            1
+In-TMM monitoring activity                   0                  0          256
+L3 Rate Limit                                0                  0            1
+LSN                                     101.0K             101.0K            1
+LTM addr list                                0                  0            1
+Layer 2 Opaque                               0                  0            1
+Log Profile                               4.2K               4.2K            1
+MW_HASH_COOKIE                               0                  0           40
+MW_HASH_TOPIC                             2.1K               2.1K          160
+NETFLOW                                      0                  0            1
+NIST CAVS tests                              0                  0            1
+NSH                                          0                  0            1
+Netflow Protected Server                     0                  0            1
+Network DoS profile                          0                  0            1
+OAuth                                   229.8K             229.8K            1
+OAuth Database                             112                112            1
+PEM PSC CFINFO                               0                  0           40
+PEM Subscriber Context                       0                  0           32
+PSPM PSC session delete context              0                  0           32
+Quality Qf Experience                        0                  0            1
+RLE bitmap                                   0                  0            1
+Radius AAA                                   0                  0            1
+Rate shaper flow_key cache                   0                  0           56
+SCRUBBER PUBLISHER                           0                  0            1
+SCTP buffer                                  0                  0           80
+SCTP chunk                                   0                  0           56
+SIP DOS profile                              0                  0            1
+SSP_SPM_POLICY_CACHE                         0                  0           80
+Shared IPTBL                            516.2K             516.2K            1
+TCP4 SACK                                  640                640          160
+TCP4 SACK hole                               0                  0           32
+TCP4 lost segment                            0                  0           32
+TCP4 segment                                 0                160           80
+TCP qdiffsample cache                        0                  0           16
+TMC key                                      0                  0            1
+Traffic Matching Criteria               648.8K             648.8K            1
+URL Categorization Library               84.1K              84.1K            1
+URL Classification                          80                 80            1
+Unit Testing                                 0                  0            1
+access                                    2.3M               2.3M            1
+access2                                    320                320            1
+access_acp_msg                               0                  0        64000
+access_bwc_items                             0                  0           24
+access_log_entries                         224                224          112
+access_profile_entry                         0                  0         1280
+access_session_batch                         0                  0          192
+access_session_data                          0                  0          512
+access_session_items                         0                  0          128
+access_session_variables                     0                  0          320
+access_slist_entry                           0                  0           16
+access_str_t                                 0                  0           16
+access_uri_info                              0                  0         4136
+access_uuid_entries                          0                  0           56
+access_whitelist_uri_entries            270.0K             270.0K          128
+acl                                      12.2K              12.2K            1
+acl cache                                    0                  0           80
+acl_build_ctx                                0                  0          112
+acl_entry                                    0                  0          128
+acl_hudnode_data                             0                  0           40
+acl_item                                     0                  0           24
+acs_hudnode_data                             0                  0           24
+acs_queue_data                               0                  0           64
+address_entry                                0                  0           32
+apm_app_item                                 0                  0          192
+apm_log_entries                         128.0K             128.0K        65584
+apm_log_profile_access_entries               0                  0           40
+apm_log_profile_access_item_ent              0                  0           32
+apm_resource_info                            0                  0          160
+apm_resource_item                            0                  0           64
+auth                                      2.1K               2.1K            1
+auth_domain                                  0                  0         5168
+avr                                        128                128            1
+bigip_connection                             0                768          768
+bwc                                       1.7M               1.7M            1
+bwc_flow_ctx                                 0                  0           32
+bwc_measure_instance                         0                  0          192
+bwc_shaper                                   0                  0           96
+cec                                      19.6M              19.6M            1
+cec_abr_pcb_cache_80                         0                  0           80
+cec_afm_pcb_cache_44                         0                  0           48
+cec_bittorrent_pcb_cache_352                 0                  0          384
+cec_config_cache_328                         0                  0          384
+cec_dns_pcb_cache_160                        0                  0          160
+cec_ftp_pcb_cache_232                        0                  0          256
+cec_http2_pcb_cache_2720                     0                  0         2720
+cec_http_pcb_cache_208                       0                  0          224
+cec_instance_cache_16                        0                  0           16
+cec_openvpn_pcb_cache_848                    0                  0          896
+cec_pcb_cache_208                            0                  0          224
+cec_quic_pcb_cache_352                       0                  0          384
+cec_result_cache_36                          0                  0           40
+cec_rtmp_pcb_cache_2440                      0                  0         2440
+cec_rtsp_pcb_cache_14912                     0                  0        14912
+cec_sip_pcb_cache_2760                       0                  0         2760
+cec_skype_pcb_cache_392                      0                  0          448
+cec_ssl_pcb_cache_456                        0                  0          512
+cec_stun_pcb_cache_36                        0                  0           40
+cec_table_item_cache                         0                  0          256
+centralized management                  107.5K             107.5K            1
+cipher                                   40.0K              40.0K            1
+citrix_client_bundle                       160                160           80
+client_policy_entries                     1.7K               1.7K          896
+clientssl_certkeychain_list                480                480           40
+clientssl_ocsp_stapling_paramet              0                  0         9272
+cmp                                        192                192            1
+config_snapshots                             0                  0           64
+connflow                                  2.5K               2.7K          256
+crypto codec                               128                128            1
+crypto_irule_ctx                             0                  0          192
+crypto_transport_server_req_cac              0                  0           16
+ctc_req_cache                                0                  0           16
+ctc_req_ctx_dh_cache                         0                  0            8
+ctc_req_ctx_ecdh_cache                       0                  0           16
+cubic data                                   0                  0            1
+dag                                          0                  0            1
+data sync lib                                0                  0            1
+dedup                                        0                  0            1
+dedup_xact_op_ctx                            0                  0           56
+deflate                                      0                  0            1
+devbuf                                    2.1M               2.1M            1
+dfa_flow_context_cache_112                   0                  0          112
+dhcp_leasequery_transaction_cac              0                  0           32
+dhcp_transaction_cache                       0                  0           32
+dht                                      17.7K              17.7K            1
+dht cache                                 1.7K               1.7K          448
+dht_entry                                    0                  0           64
+dht_reply_hud_token                          0                  0           80
+dht_request                                  0                  0           40
+dht_request_local                            0                  0           96
+diam_msg                                     0                  0          160
+diam_pending                                 0                  0           80
+dns64_entry_cache                            0                  0           24
+dns cache resolver                           0                  0            1
+dns cache resolver ub ctx                    0                  0           96
+dns express                              75.3K              75.3K            1
+dns security                               224                224            1
+dns_hw_cfg_cache                             0                  0        69664
+dns_ldns                                     0                  0           80
+dns_path                                     0                  0           56
+dns_persistence                              0                  0           80
+dns_qname_cache                              0                  0         1280
+dnssec_pkt                                   0                  0           80
+dnssec_rrset                                 0                  0           64
+dnssec_rrsig                                 0                  0         4248
+dnssec_sig_cache                             0                  0           80
+dnssec_xfr                                   0                  0          448
+dnssec_xfr_ns_target                         0                  0           40
+dnssec_xfr_nsec3                             0                  0           80
+dpi                                      33.4K              33.4K            1
+dpi_shared_pcb                               0                  0          128
+drop_policy                                320                320           80
+dynad                                        0                  0            1
+errdefs                                 201.8K             201.8K            1
+evtimer                                    192                192           96
+fad_address_bnode                          640                640          320
+fad_program_listener_info                    0                  0           56
+fad_string_map_entry                         0                  0          640
+fad_string_map_hash                          0                  0          512
+fast_dns_pl_cache                            0                  0          112
+filter                                  579.2K             579.8K            1
+flow forwarding                           6.0M               6.0M            1
+fps::crypto_req_ctx_rsa                      0                  0          224
+fps::crypto_req_rsa_cipher                   0                  0          128
+fps::fps_alert                               0                  0          384
+fps::fps_auto_trans                          0                  0          112
+fps::fps_bait                                0                  0           40
+fps::fps_bait_list                           0                  0           24
+fps::fps_custom_alert_list                   0                  0           40
+fps::fps_custom_alert_raw_list               0                  0           24
+fps::fps_decrypt_data                        0                  0           80
+fps::fps_found_custom_alert                  0                  0           32
+fps::fps_found_encrypted_param               0                  0           80
+fps::fps_found_inject_tag                    0                  0           24
+fps::fps_global_url                          0                  0           48
+fps::fps_global_url_info                     0                  0           32
+fps::fps_header_custom_alert                 0                  0           96
+fps::fps_header_custom_alert_li              0                  0           32
+fps::fps_ip_custom_alert                     0                  0           80
+fps::fps_malware                             0                  0           80
+fps::fps_malware_info                        0                  0          224
+fps::fps_malware_list                        0                  0           24
+fps::fps_mobilesafe                        640                640          320
+fps::fps_mobilesafe_common                   0                  0           56
+fps::fps_mobilesafe_data                     0                  0           32
+fps::fps_mobilesafe_mitm_domain              0                  0           96
+fps::fps_mobilesafe_os                       0                  0           48
+fps::fps_parameter                           0                  0          224
+fps::fps_parameter_list                      0                  0           24
+fps::fps_parameter_parser                    0                  0           80
+fps::fps_pcb                                 0                  0         1280
+fps::fps_profile                           192                192           96
+fps::fps_profile_info                     4.0K               4.0K         2048
+fps::fps_rule                                0                  0           80
+fps::fps_rule_list                           0                  0          128
+fps::fps_shared_ptr                          0                  0           24
+fps::fps_str_custom_alert                    0                  0           80
+fps::fps_url                                 0                  0          320
+fps::fps_url_info                            0                  0         1024
+fps::fps_url_list                            0                  0           24
+fps::fps_user_full_record                    0                  0           32
+fps::fps_user_info                           0                  0           16
+fps::fps_vcrypt_staging_mode_da              0                  0           80
+fred_cb                                      0                  0           24
+fred_flow_data                               0                  0           24
+gpa                                      33.0K              33.0K            1
+gpa_applications                        419.6K             419.6K           56
+gpa_categories                           19.5K              19.5K           48
+gpa_classif_pcb                              0                  0           80
+gpa_shared_pcb                               0                  0          160
+gpa_urlcats                              32.5K              32.5K           80
+ha_context_cache                             0                  0           48
+ha_cursor_cache                              0                  0           16
+html rule                                 8.0K               8.0K            1
+html_rule                                    0                  0          224
+html_rule_list                               0                  0           56
+http_ck_cache                                0                  0          224
+http_cookie                                  0                  0          128
+http_data                                    0                  0          320
+http_parser_cache_4096                       0                  0         4096
+http_persist                                 0                  0           80
+hud_message_ctx                              0                  0          160
+hud_oob                                      0                  0           64
+ifc                                       9.0K               9.0K          768
+ifnet                                     3.8M               3.8M            1
+ifvirt_entry                                 0                  0           64
+ike_crypto_req_cache                         0                  0          256
+ike_peer                                     0                  0          512
+ike_req                                      0                  0           56
+inst_entry                                   0                  0           56
+ipfix_cache                                  0                  0          192
+ipfix_conn_cache                             0                  0           48
+ipfix_repo_cache                             0                  0          160
+ipfix_template_cache                         0                  0          384
+ips                                       1.3M               1.3M            1
+ips-insection-profile                   286.7K             286.7K           48
+ips-inspection                          544.6K             544.6K          160
+ips-profile-status                         320                320           40
+ips-service                               1.1K               1.1K           24
+ips-service-port-profile                  2.6K               2.6K           32
+ips-service-profile                       1.6K               1.6K           32
+ips_diameter_pcb_cache_0.0.2114              0                  0           56
+ips_dns_pcb_cache_0.0.2114                   0                  0           64
+ips_ftp_pcb_cache_0.0.2114                   0                  0          448
+ips_imap_pcb_cache_0.0.2114                  0                  0          640
+ips_mqtt_pcb_cache_0.0.2114                  0                  0          448
+ips_mysql_pcb_cache_0.0.2114                 0                  0          768
+ips_pcb_cache_0.0.2114                       0                  0          256
+ips_radius_pcb_cache_0.0.2114                0                  0           40
+ips_sip_pcb_cache_0.0.2114                   0                  0          224
+ips_smtp_pcb_cache_0.0.2114                  0                  0          160
+ips_snmp_pcb_cache_0.0.2114                  0                  0           80
+ips_tftp_pcb_cache_0.0.2114                  0                  0            8
+ipsec_crypto_req_cache                       0                  0          320
+ipsec_enc_auth_ctx_cache                     0                  0          616
+ipsec_ike_ctx_cache                          0                  0          320
+ipsec_ipcomp_cache                           0                  0          320
+ipsec_policy                                 0                  0           56
+isess rid                                    0                  0            1
+isession                                144.2K             144.2K            1
+isession_abort_stat                          0                  0           24
+isession_virt_compress_stats                 0                  0           24
+isession_virt_stat                           0                  0           40
+join_cert_validator_list                     0                  0         3176
+km_ocsp_concurrent_conn_lim                  0                  0           48
+km_ocsp_ctx                                  0                  0           56
+l7 policy                                 1.5M               1.5M            1
+laddr                                      512                512          128
+lasthop                                    768                832           64
+leasepool                                    0                  0            1
+leasepool cache                              0                  0          112
+leasepool_mbr                                0                  0          128
+libldns                                 142.2K             142.2K            1
+listener                                  4.0M               4.0M            1
+listener cache                          420.0K             422.5K         1280
+local_route                                  0                  0          160
+loop_nexthop                                 0                  0           96
+lsn inbound bitmap                           0                  0            1
+lsn_entry                                    0                  0          224
+lsn_inbound_entry                            0                  0           64
+lsn_pool                                     0                  0          640
+lsn_prefix                                   0                  0          160
+lw4o6_tbl_entry                              0                  0           24
+mac_entry                                    0                  0           16
+malloc                                   33.7M              34.8M            1
+mblb_assoc cache                             0                  0          160
+mblb_harness cache                           0                  0           56
+mblb_message cache                           0                  0          112
+mblb_swinfo cache                            0                  0           80
+mco db                                   40.0M              40.0M            1
+mcp                                       3.2M               3.4M            1
+mds_btree_nodes                           3.1K               3.1K          320
+mds_cache                                    0                  0          128
+mds_connset                                  0                  0          224
+mds_message                                  0                  0           64
+memcache                                    48                 48            1
+memcache request items                       0                  0         1792
+messagerouter                              256                256            1
+method                                    2.6K               2.6K            1
+mobile app manager                           0                  0            1
+monitor agent                            24.0K              24.0K            1
+monitor_ctx                                  0                  0          192
+mpi_request                                  0                  0           40
+mqtt_message                                 0                  0          192
+mqtt_slab                                    0                  0          192
+multicast                                    0                  0            1
+mw_cookie                                   64                 64           32
+mw_kv                                        0                  0           40
+mw_msg                                       0                  0           96
+mw_msgbus                                64.5K              64.5K            1
+mw_msgp                                      0                  0           56
+mw_pub                                    1.1K               1.1K           64
+mw_sub                                     640                640           80
+mw_work                                      0                  0           48
+neighbor_advertiser_entry                    0                560           80
+neighbor_entry                           10.6K              11.8K          320
+net_ip                                     816                816           24
+network access                             144                144            1
+network access cache                         0                  0          320
+nps cache                                    0                  0           64
+oauth_agent_item                             0                  0          160
+oauth_client_app_entries                     0                  0          160
+oauth_client_app_scope_entries               0                  0           40
+oauth_client_app_scope_item_ent              0                  0           32
+oauth_crypto_contexts                        0                  0          128
+oauth_crypto_key_entries                     0                  0          256
+oauth_db_instance_entries                   32                 32           32
+oauth_jwk_config_entries                     0                  0          320
+oauth_profile_client_app_entrie              0                  0           40
+oauth_profile_client_app_item_e              0                  0           32
+oauth_profile_jwk_config_entrie              0                  0           40
+oauth_profile_jwk_config_item_e              0                  0           32
+oauth_profile_resource_server_e              0                  0           40
+oauth_profile_resource_server_i              0                  0           32
+oauth_request_item                       13.5K              13.5K          192
+oauth_resource_server_entries                0                  0          112
+oauth_scope_entries                          0                  0           80
+ocsp_list                                    0                  0         4216
+ocsp_trans_list                              0                  0           24
+packet                                  297.1K             297.3K          192
+pcp                                      68.0K              68.0K            1
+pcp_prefix                                   0                  0           96
+peer_iclient                                 0                  0           80
+peer_isession                                0                  0           40
+peer_route                                   0                  0          160
+peer_woc                                     0                  0          384
+pem                                       2.0M               2.0M            1
+pem format script                            0                  0           40
+pem forwarding endpoint                      0                  0           96
+pem intercept endpoint                       0                  0           48
+pem service chain endpoint                   0                  0           56
+pem_flow_bwc_handles                         0                  0           96
+pem_hud_cb_data                              0                  0           16
+pem_tcl_info                                 0                  0           80
+persist                                      0                  0          160
+persistence                                768                768            1
+pfkey_msg_stat                            1.2K               1.2K          160
+pingaccess                                   0                  0            1
+plugin                                  421.4K             421.4K            1
+plugin_message                               0                  0           96
+policy_nexthop                               0                  0          256
+pool                                     68.6K              68.6K            1
+pool cache                                6.2K               6.2K          640
+poolmbr                                  26.0K              26.0K          512
+poolprio                                     0                  0           64
+port set                                     0                  0            1
+pq                                           0                  0           16
+private                                      0                  0            1
+profile                                   2.7M               2.7M            1
+proxy                                     1.2M               1.2M            1
+proxy exclude                                0                  0            1
+proxy_common_cache                           0                  0          320
+proxy_common_pending_enable                  0                  0           32
+proxy_connect_data                           0                  0          256
+proxy_ctx                                    0                  0          128
+proxy_tuple                                  0                  0           24
+pva                                          0                  0          256
+queueing_method                            256                256           64
+radius server                             4.0K               4.0K            1
+radius_server                                0                  0          192
+ramcache                                225.6K             225.6K            1
+ramcache document                            0                  0          256
+ramcache entity                              0                  0          128
+ramcache resource                            0                  0           96
+rate shaper                                  0                  0            1
+rate tracker                                 0                  0            1
+rateclass                                    0                  0          640
+rateclass_queue                              0                  0          224
+rateshaper                                   0                  0           24
+red_cb                                       0                  0           80
+regex                                        0                  0            1
+remote desktop                               0                  0            1
+resolv                                     768                768            1
+resolv_cache                                 0                  0          112
+resolv_query                                 0                  0          224
+rewrite profile rules                      560                560            1
+router advertisement                         0                  0            1
+rt_dom                                       0                  0          224
+rt_entry                                  4.5K               4.5K          128
+rtm_internal                                 0                  0          128
+rules                                    92.3K              92.3K            1
+sPVA                                       112                112            1
+sandbox_entries                         256.2K             256.2K        65592
+sandbox_file_entries                         0                  0          160
+sandbox_profile_access_entries               0                  0           40
+sandbox_profile_access_item_ent              0                  0           32
+sb_cache                                     0                  0          256
+sctp                                      4.6K               4.6K            1
+sctp_maddr                                   0                  0           64
+sctp_ports_cache                             0                  0           24
+security log profile                     17.5K              17.5K            1
+selfip                                    3.4K               3.4K          160
+service policy                               0                  0            1
+session                                   2.0M               2.0M            1
+session cache                             1.0K               1.0K          128
+session master key                         384                384           48
+session pdq                                  0                  0            1
+session_leasepool_mbr_table                  0                  0           48
+shaper_domain                               32                 32           16
+shared_var_context                           0                  0           96
+sip_dialog                                   0                  0           80
+sip_entry                                    0                  0           24
+sip_header_cache                             0                  0         2056
+sip_msg                                      0                  0          640
+sip_node_ack_cache                           0                  0           24
+sipmsg                                       0                  0          768
+source addr translation                    384                408            1
+spm_local_hash                               0                  0         1024
+spm_mult_ip_data_stat                        0                  0           80
+spm_policy                                   0                  0           80
+spm_session_create_ctx                       0                  0           80
+spm_session_ip_mapping_ctx                   0                  0          448
+spm_session_timer_ctx                        0                  0           80
+spm_session_update_ctx                       0                  0           56
+spm_subs_id_update_ctx                       0                  0           32
+spm_towerid_local_hash                       0                  0          128
+ssl                                       4.0M               4.0M            1
+ssl_basic                                    0                  0          752
+ssl_bulk_crypto_ctx                          0                  0          224
+ssl_cn                                       0                  0         1192
+ssl_cn_req                                   0                  0           32
+ssl_compat                              304.1K             304.2K            1
+ssl_dht_data                                 0                  0           48
+ssl_dht_key                                  0                  0           32
+ssl_hs                                       0                  0         5944
+ssl_hs_m                                     0                  0        16384
+ssl_keys                                     0                  0          112
+ssl_profile                              94.7K              94.7K         6064
+ssl_proxy_profile_hash                       0                  0          512
+ssl_rd                                       0                  0           96
+ssl_session                                  0                  0          256
+ssl_sni                                      0                  0           40
+ssl_sni_profile_hash                         0                  0           16
+ssl_sni_profile_hash_cert                    0                  0           16
+sso                                       4.0K               4.0K            1
+sso::sso_config                           2.8M               2.8M            1
+sso::sso_pcb                                 0                  0         2048
+sso::sso_plugin                              0                  0            1
+sso::sso_saml                                0                  0            1
+sso::xml_parser                           2.8M               2.8M            1
+sso_config                                   0                  0          320
+string cache                            295.3K             295.3K            1
+subscriber_id_cookie_cache                   0                  0           24
+sw_crypto_req_ctx_dh_cache                   0                  0           16
+sw_crypto_req_ctx_dsa_cache                  0                  0            8
+sw_crypto_req_ctx_ecdh_cache                 0                  0           24
+sw_crypto_req_ctx_ecdsa_cache                0                  0            8
+sw_crypto_req_ctx_rsa_cache                192                192           16
+sweeper                                   6.1K               6.1K            1
+tacacsplus_server                            0                  0          112
+tacplus server                            4.0K               4.0K            1
+tcl                                       8.4M               8.4M            1
+tcl_ip_addr                                 48                 48           24
+tclrule_pcb                               3.5K               3.5K          448
+tclrule_pcb_children                         0                  0            8
+temp                                      2.5K               2.5K            1
+thread stacks                            15.8M              15.8M            1
+tm_header_cache_entry_slab                 768                768          384
+tm_opaque                                    0                  8            1
+tm_sys                                   23.3K              23.3K            1
+tmc cache                                    0                  0          640
+tmc key cache                                0                  0          128
+tmc_entry                                    0                  0           64
+tmjail                                   22.5K              22.5K            1
+tmm_tg_listener                             32                 32           16
+traffic class                                0                  0           96
+traffic class tables                         0                  0          896
+traffic managment interface              23.7K              23.7K            1
+traffic_selector                             0                  0          128
+tsig_ctx                                     0                  0           24
+tsig_req_ctx                                 0                  0           16
+tunnel_nexthop                             768                768          192
+umem                                     33.9M              33.9M            1
+url filter                              656.2K             656.2K            1
+url_filter_log_entries                     128                128           64
+urlc_cloud_cache                             0                  0           64
+vaddr                                     2.8K               2.8K           96
+vcmp                                      3.8K               3.8K            1
+vpn_na_item_entries                          0                  0           48
+vpn_session_data_entries                     0                  0            8
+wa_resource_item                             0                  0          112
+wam::assembly                             4.2K               4.2K            1
+wam::cache                                2.5K               2.5K            1
+wam::config                             160.0K             160.0K            1
+wam::css_parser                              0                  0            1
+wam::html_parser                          1.3K               1.3K            1
+wam::js_parser                               0                  0            1
+wam::m3u8_parser                             0                  0            1
+wam::mstor                                   0                  0            1
+wam::mstor_ctx                               0                  0          160
+wam::mstor_object                            0                  0          160
+wam::mstor_op                                0                  0         1792
+wam::mtag                                    0                  0            1
+wam::normalization                           0                  0            1
+wam::plugin                                  0                  0            1
+wam::roistats_bucket                         0                  0            1
+wam::stats_bucket                            0                  0            1
+wam::stdlib                               6.0K               6.0K            1
+wam::uci                                     0                  0            1
+wam::wam_annotation                          0                  0           56
+wam::wam_assembler                           0                  0          128
+wam::wam_bitset_bits                         0                  0            1
+wam::wam_dfa                                 0                  0           40
+wam::wam_dfa_state                           0                  0           32
+wam::wam_document                            0                  0          512
+wam::wam_entity                              0                  0          320
+wam::wam_evt                              1.0K               1.0K          112
+wam::wam_match                               0                  0          224
+wam::wam_match_condition                     0                  0            1
+wam::wam_match_expression                    0                  0           48
+wam::wam_match_map                           0                  0            1
+wam::wam_match_operand                       0                  0          384
+wam::wam_match_policy                        0                  0           80
+wam::wam_match_state                         0                  0           56
+wam::wam_match_string                        0                  0           24
+wam::wam_match_transition                    0                  0            1
+wam::wam_nfa_dfa                             0                  0            1
+wam::wam_resource                            0                  0          192
+wam::wam_resumption_info                     0                  0           32
+wam::wam_sink                                0                  0           32
+wam::wam_transaction                         0                  0         1792
+wam::wash_pcb                                0                  0          224
+web application                          16.0K              16.0K            1
+web_application                              0                  0          112
+web_application_item                         0                  0           24
+westwood data                                0                  0            1
+work                                    192.0K             192.0K            1
+xdata                                    51.1M              51.1M         2048
+xfr_ctx                                      0                  0          160
+xhead                                   818.0K             818.1K           32
+
+-----------------------
+Sys::TMM Memory (bytes)
+-----------------------
+TMM: 0.0
+  Total     2.4G
+  Used    231.4M
+
